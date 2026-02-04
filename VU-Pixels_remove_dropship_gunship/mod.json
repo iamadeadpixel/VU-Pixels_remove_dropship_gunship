@@ -1,0 +1,10 @@
+{
+  "Name": "Removes dropship or gunship",
+  "Authors": ["breaknix,iamadeadpixel"],
+  "Description": "this wil removes gunship/dropship",
+  "Version": "1.0.0",
+  "HasVeniceEXT": true,
+  "Dependencies": {
+    "veniceext": "^1.0.0"
+  }
+}
